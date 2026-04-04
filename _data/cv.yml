@@ -3,95 +3,100 @@
   contents:
     - name: Full Name
       value: Ruoxi Li
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Email
+      value: ruoxi_li@berkeley.edu
+    - name: Phone
+      value: +1 605-940-3262
+    - name: Affiliation
+      value: Department of Mathematics, University of California, Berkeley
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Doctoral Program in Mathematics
+      institution: University of California, Berkeley, California, United States
+      year: 2022 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Research Interests&#58; Algebraic Geometry
+        - GPA&#58; 4.00/4.00
+    - title: BS in Applied Mathematics
+      institution: Columbia University, New York, United States
+      year: 2020 - 2022
       description:
-        - Description 1.
-        - Description 2.
+        - GPA&#58; 4.00/4.00 (4.175 with A+ counted as 4.33)
+        - Dean's list for every semester
+        - Graduated Summa cum Laude
+        - 2022 Applied Mathematics Faculty Award
+    - title: BA in Mathematics
+      institution: Augustana University, South Dakota, United States
+      year: 2017 - 2020
+      description:
+        - Major GPA&#58; 4.00/4.00
+        - Overall GPA&#58; 3.87/4.00
+        - Dean's list for every semester
+        - Outstanding Award in SCUDEM II 2018 – Student Competition Using Differential Equations Modeling
+        - Ralph and Susie Wagoner Student Research Award
+        - Physics Outstanding Freshman Award (2017–2018)
+        - Membership in Pi Mu Epsilon (national honor society for mathematics)
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Graduate Student Instructor
+      institution: University of California, Berkeley, California, United States
+      year: 2023 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Lead discussion sections, hold weekly office hours, grade exams, projects, and homework assignments.
+    - title: Teaching Assistant
+      institution: Columbia University, New York, United States
+      year: Jan 2022 - May 2022
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Undergraduate TA for Modern Analysis I (basic topology, sequences, series, continuity, differentiability, Riemannian integration, uniform convergence).
+        - Held weekly office hours, graded homework, and ran mini review sessions before exams.
+    - title: Tutor
+      institution: Augustana University, South Dakota, United States
+      year: 2018 - 2020
       description:
+        - One-on-one calculus tutoring and calculus review sessions.
+        - Drop-in math and physics tutor covering calculus, linear algebra, mathematical logic, real analysis, and abstract algebra.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Talks and Presentations
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
+    - year: Dec 2025
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Seminar presentation on classification of point objects in the derived category of homogeneous projective bundles over abelian varieties, UC Berkeley.
+    - year: Nov 2025
       items:
-        - Max Planck Medal
+        - Flash talk on point objects and twisted FM partners of abelian varieties, WAGS, University of Oregon.
+    - year: Apr 2025
+      items:
+        - Seminar presentation on classification of point objects in the twisted derived category of an abelian variety, UC Berkeley.
+    - year: Oct 2024
+      items:
+        - Seminar presentation on ample vector bundles on tame stacks and embeddings into weighted projective spaces, UC Berkeley.
+    - year: Mar 2024
+      items:
+        - Seminar presentation on Fourier-Mukai equivalences between a K3 surface and its moduli space of semistable sheaves, UC Berkeley.
+    - year: Apr 2023
+      items:
+        - Seminar presentation on Bondal and Orlov's reconstruction from derived categories result for smooth projective varieties with ample canonical bundle, UC Berkeley.
+    - year: Jul 2022
+      items:
+        - Final Presentation on GIT project, Michigan Research Experience for Graduates Symposium.
+    - year: Oct 2021
+      items:
+        - Poster presentation on Thick Points in a Random Square Subdivision Model Generated by Bernoulli Trials, Columbia University Undergraduate Research Symposium.
+        - Seminar Presentation on Foundations of Probability Theory, Columbia Undergraduate Seminar in Applied Mathematics.
+    - year: Aug 2021
+      items:
+        - Final presentation on Thick Points in a Random Square Subdivision Model Generated by Bernoulli Trials, Columbia University.
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Algebraic Geometry
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Derived categories and Fourier-Mukai transforms
+        - Twisted derived categories of abelian varieties
+        - Point objects and derived equivalences
