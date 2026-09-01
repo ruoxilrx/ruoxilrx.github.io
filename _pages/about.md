@@ -19,4 +19,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a PhD student in Mathematics at UC Berkeley (Aug 2022–present), with research interests in **Algebraic Geometry**. I completed my BS in Applied Mathematics at Columbia University (summa cum laude, 2022 Applied Mathematics Faculty Award) and my BA in Mathematics at Augustana University.
+I am a PhD student in Mathematics at UC Berkeley (Aug 2022–present), with research interests in **Algebraic Geometry**, in particular, derived categories and algebraic stacks. 
