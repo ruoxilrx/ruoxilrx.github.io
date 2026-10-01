@@ -81,6 +81,9 @@
 - title: Talks and Presentations
   type: time_table
   contents:
+    - year: May 2026
+      items:
+        - Seminar talk on classification of point objects and Fourier-Mukai partners of twisted abelian varieties, University of Oregon.
     - year: Mar 2026
       items:
         - Seminar presentation on minimal trivializing isogenies of Gm-gerbes over abelian varieties, UC Berkeley.
