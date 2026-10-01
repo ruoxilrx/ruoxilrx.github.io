@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Visiting the University of Utah for WAGS.
+Visiting the University of Utah for <a href="https://sites.google.com/a/wagsymposium.org/current/">WAGS</a>.
