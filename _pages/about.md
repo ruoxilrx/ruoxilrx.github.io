@@ -11,6 +11,7 @@ profile:
   more_info: >
     <p>Department of Mathematics</p>
     <p>University of California, Berkeley</p>
+    <p>Evans Hall 789</p>
     <p>Berkeley, CA, United States</p>
     <p>ruoxi_li@berkeley.edu</p>
 
