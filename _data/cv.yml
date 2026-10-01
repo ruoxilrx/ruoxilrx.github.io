@@ -39,7 +39,39 @@
         - Physics Outstanding Freshman Award (2017–2018)
         - Membership in Pi Mu Epsilon (national honor society for mathematics)
 
-- title: Experience
+- title: Publications and Preprints
+  type: time_table
+  contents:
+    - year: 2026
+      title: GIT for Root Stacks and 3D Mirror Symmetry
+      description:
+        - with S. Garg, Y. Okitani; preprint
+      linkitems:
+        - link: https://arxiv.org/abs/2608.30350
+          linkname: arXiv
+    - year: 2026
+      title: Minimal Trivializing Isogenies of G_m-Gerbes over Abelian Varieties and Period-Index Problem
+      description:
+        - submitted
+      linkitems:
+        - link: https://arxiv.org/abs/2605.30530
+          linkname: arXiv
+    - year: 2025
+      title: Point Objects and Derived Equivalences of Twisted Derived Categories of Abelian Varieties
+      description:
+        - submitted
+      linkitems:
+        - link: https://arxiv.org/abs/2511.19282
+          linkname: arXiv
+    - year: 2025
+      title: Weyl-invariant subspaces are not (usually) generic
+      description:
+        - with R. Kurama, H. Talbott, R. Webb; submitted
+      linkitems:
+        - link: https://arxiv.org/abs/2510.03963
+          linkname: arXiv
+
+- title: Work Experience
   type: time_table
   contents:
     - title: Graduate Student Instructor
@@ -63,7 +95,10 @@
 - title: Talks and Presentations
   type: time_table
   contents:
-    - year: Dec 2025
+    - year: Mar 2026
+      items:
+        - Seminar presentation on minimal trivializing isogenies of Gm-gerbes over abelian varieties, UC Berkeley.
+    - year: Nov 2025
       items:
         - Seminar presentation on classification of point objects in the derived category of homogeneous projective bundles over abelian varieties, UC Berkeley.
     - year: Nov 2025
