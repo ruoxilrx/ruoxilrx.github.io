@@ -7,10 +7,10 @@ nav: true
 nav_order: 6
 ---
 
-### Teaching
+**Classes:**
 
-- Math 16A, Analytic Geometry and Calculus, Fall 2026 (Graduate Student Instructor)
+I am teaching Math 16A, Analytic Geometry and Calculus, this Fall 2026.
 
-### Service
+**Seminars:**
 
-- Co-organizer, Student Arithmetic Geometry Seminar, UC Berkeley ([schedule](https://docs.google.com/spreadsheets/d/1CdV8bKRUkooTGgXvUtfy84WHfm0nFLYQNVnAWqoaUZ8/edit?gid=0#gid=0))
+I am helping organizing the Student Arithmetic Geometry Seminar at UC Berkeley. The schedule of talks can be found [here](https://docs.google.com/spreadsheets/d/1CdV8bKRUkooTGgXvUtfy84WHfm0nFLYQNVnAWqoaUZ8/edit?gid=0#gid=0).
