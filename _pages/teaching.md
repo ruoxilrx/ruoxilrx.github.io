@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: teaching and seminars
 description: Teaching and service at UC Berkeley.
 nav: true
 nav_order: 6
@@ -13,4 +13,4 @@ nav_order: 6
 
 ### Service
 
-- Co-organizer, Student Arithmetic Geometry Seminar, UC Berkeley
+- Co-organizer, Student Arithmetic Geometry Seminar, UC Berkeley ([schedule](https://docs.google.com/spreadsheets/d/1CdV8bKRUkooTGgXvUtfy84WHfm0nFLYQNVnAWqoaUZ8/edit?gid=0#gid=0))
