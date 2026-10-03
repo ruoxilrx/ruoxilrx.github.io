@@ -66,13 +66,18 @@
       institution: University of California, Berkeley, California, United States
       year: 2023 - present
       description:
-        - Lead discussion sections, hold weekly office hours, grade exams, projects, and homework assignments.
+        - Math 16A, Analytic Geometry and Calculus, Fall 2026
+        - Math 51, Calculus I, Summer 2026
+        - Math 55, Discrete Mathematics, Fall 2025
+        - Math 33, Precalculus, Fall 2024
+        - Math 53, Multivariable Calculus, Summer 2024
+        - Math 1A (51), Calculus, Fall 2023
+        - Math 16B, Analytic Geometry and Calculus, Spring 2023
     - title: Teaching Assistant
       institution: Columbia University, New York, United States
       year: Jan 2022 - May 2022
       description:
-        - Undergraduate TA for Modern Analysis I (basic topology, sequences, series, continuity, differentiability, Riemannian integration, uniform convergence).
-        - Held weekly office hours, graded homework, and ran mini review sessions before exams.
+        - Math GU4041, Introduction to Analysis, Spring 2022
     - title: Tutor
       institution: Augustana University, South Dakota, United States
       year: 2018 - 2020
@@ -85,28 +90,28 @@
   contents:
     - year: May 2026
       items:
-        - Seminar talk on classification of point objects and Fourier-Mukai partners of twisted abelian varieties, University of Oregon.
+        - <em>Point Objects and Twisted Fourier-Mukai Partners of Abelian Varieties</em>, Algebra Seminar, University of Oregon.
     - year: Mar 2026
       items:
-        - Seminar presentation on minimal trivializing isogenies of Gm-gerbes over abelian varieties, UC Berkeley.
+        - <em>Ranks of Twisted Semi-homogeneous Vector Bundles and their Moduli Stacks</em>, Student Arithmetic Geometry Seminar, UC Berkeley.
     - year: Nov 2025
       items:
-        - Seminar presentation on classification of point objects in the derived category of homogeneous projective bundles over abelian varieties, UC Berkeley.
+        - <em>Point Objects on Projective Bundles over Abelian Varieties</em>, Student Arithmetic Geometry Seminar, UC Berkeley.
     - year: Nov 2025
       items:
-        - Flash talk on point objects and twisted FM partners of abelian varieties, <a href="https://sites.google.com/a/wagsymposium.org/current/">WAGS</a>, University of Oregon.
+        - <em>Point Objects and Fourier-Mukai Partners of Twisted Derived Categories of Abelian Varieties</em>, University of Oregon, flash talk at <a href="https://sites.google.com/a/wagsymposium.org/current/">WAGS</a> 2025.
     - year: Apr 2025
       items:
-        - Seminar presentation on classification of point objects in the twisted derived category of an abelian variety, UC Berkeley.
+        - <em>Point Objects in the Twisted Derived Categories of Abelian Varieties</em>, Student Arithmetic Geometry Seminar, UC Berkeley.
     - year: Oct 2024
       items:
-        - Seminar presentation on ample vector bundles on tame stacks and embeddings into weighted projective spaces, UC Berkeley.
+        - <em>Ample Vector Bundles on Tame Stacks</em>, Student Arithmetic Geometry Seminar, UC Berkeley.
     - year: Mar 2024
       items:
-        - Seminar presentation on Fourier-Mukai equivalences between a K3 surface and its moduli space of semistable sheaves, UC Berkeley.
+        - <em>The Fourier-Mukai Equivalences between a K3 Surface and its Moduli Space of Semistable Sheaves</em>, Student Arithmetic Geometry Seminar, UC Berkeley.
     - year: Apr 2023
       items:
-        - Seminar presentation on Bondal and Orlov's reconstruction from derived categories result for smooth projective varieties with ample canonical bundle, UC Berkeley.
+        - <em>D<sup>b</sup>(X) determines X when K<sub>X</sub> is ample or anti-ample</em>, Student Arithmetic Geometry Seminar, UC Berkeley.
     - year: Jul 2022
       items:
         - Final Presentation on GIT project, Michigan Research Experience for Graduates Symposium.
