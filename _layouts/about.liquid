@@ -56,6 +56,12 @@ layout: default
       {% include latest_posts.liquid %}
     {% endif %}
 
+    <!-- Papers in preparation -->
+    {% if page.papers_in_prep %}
+      <h2>papers in preparation</h2>
+      {% include papers_in_prep.liquid %}
+    {% endif %}
+
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>

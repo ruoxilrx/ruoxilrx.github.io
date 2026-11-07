@@ -16,6 +16,7 @@ profile:
     <p>ruoxi_li@berkeley.edu</p>
 
 news: true # includes a list of news items
+papers_in_prep: true # includes a list of papers marked as "in_prep={true}"
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
